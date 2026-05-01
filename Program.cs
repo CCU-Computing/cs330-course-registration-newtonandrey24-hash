@@ -10,7 +10,7 @@ namespace cs330courses
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is Andrey");
-            
+
             CourseServices service = new CourseServices();
 
             Console.WriteLine("---------");
@@ -19,7 +19,7 @@ namespace cs330courses
                 Console.WriteLine(c);
             }
             Console.WriteLine("---------");
-            Console.WriteLine("My name is Andrey");
+
             
             // Make each of the next 6 sections of code work
             /*
